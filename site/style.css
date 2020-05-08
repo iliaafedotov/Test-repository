@@ -1,4 +1,27 @@
-[href]{
-	color:pink;
-	font-size: 150%;
+*{
+	background-color: #e1e8eb;
+	font-family: sans-serif;
+
+}
+.main-heading{
+	text-align: center;
+}
+.image-div{
+	background-color: #a5b0b5;
+	padding: 10px;
+	text-align: center}
+#img-caption{
+text-align: center;
+}
+}
+.main{
+
+}
+#image {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
 }
